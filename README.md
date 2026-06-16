@@ -35,5 +35,5 @@ Outlier Analysis: Detection of extreme values using Interquartile Range (IQR) bo
 Performance Summaries: Aggregated sales performance tracking across diverse product categories (e.g., Chairs, Desks, Laptops, Printers) and specific marketing channels.
 
 👤 Connect with Me
-● LinkedIn: www.linkedin.com/in/udeme-jackson-0a0887144
-● GitHub: hhtps://github.com/udeme054/decodelabs-internship
+#LinkedIn: www.linkedin.com/in/udeme-jackson-0a0887144
+#GitHub: hhtps://github.com/udeme054/decodelabs-internship
