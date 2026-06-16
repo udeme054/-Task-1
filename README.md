@@ -1,4 +1,7 @@
-# DecodeLab Data Analytics Internship - Week 1 Project: Data Cleaning & Pre-Preparation 
+# DecodeLab Data Analytics Internship - Week 1 Project: Data Cleaning & Pre-Preparation
+
+# Author 
+Udeme Jackson Data analytics intern at DecodeLabs
 
 ## Project Overview 
 This repository contains the Week 1 project completed during my Data Analytics internship at DecodeLab. 
@@ -36,6 +39,7 @@ Performance Summaries: Aggregated sales performance tracking across diverse prod
 
 LinkedIn: www.linkedin.com/in/udeme-jackson-0a0887144 GitHub: hhtps://github.com/udeme054/decodelabs-internship
 
+### Project gallery
 
 ![alt text](https://github.com/udeme054/-Task-1/blob/3e1a9829613afd6fa329cf2a3524f8641b2b0ac3/Uncleaned%20Dataset%20for%20Projet%201.jpg)
 ![alt text](
