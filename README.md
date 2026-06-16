@@ -1,6 +1,8 @@
 # DecodeLab Data Analytics Internship - Week 1 Project: Data Cleaning & Pre-Preparation 
 
-## Project Overview This repository contains the Week 1 project completed during my Data Analytics internship at DecodeLab. The core objective of this project was to take a raw, unoptimized transactional sales dataset and transform it into a clean, structured, and analysis-ready format using **Excel Power Query.
+## Project Overview 
+This repository contains the Week 1 project completed during my Data Analytics internship at DecodeLab. 
+The core objective of this project was to take a raw, unoptimized transactional sales dataset and transform it into a clean, structured, and analysis-ready format using **Excel Power Query.
 By applying rigorous data cleaning and ETL (Extract, Transform, Load) principles, I enhanced data quality, established consistency, and engineered new features to facilitate seamless downstream reporting and visualization.
 
 ## Tools & Technologies Used 
