@@ -30,17 +30,10 @@ Objective: Ensured all records conform to a reliable standard, establishing a so
 
 ### Key Deliverables & Insights
 Following the pre-preparation phase, the dataset is fully optimized to extract operational insights, including:
-● Descriptive Statistics: Baseline measurements across quantities, unit prices, and total order volumes.
-● Outlier Analysis: Detection of extreme values using Interquartile Range (IQR) boundaries to isolate unusual purchasing behaviors.
-● Performance Summaries: Aggregated sales performance tracking across diverse product categories (e.g., Chairs, Desks, Laptops, Printers) and specific marketing channels.
-
-## 📂 Repository Structure
-```text ├── Data/ │ ├── Raw_DecodeLab_Dataset.xlsx         # Original uncleaned dataset
-│ └── Cleaned_DecodeLab_Dataset.xlsx                       # Final processed data from Power Query
-├── README.md                                              # Project documentation and summary
-
+Descriptive Statistics: Baseline measurements across quantities, unit prices, and total order volumes.
+Outlier Analysis: Detection of extreme values using Interquartile Range (IQR) boundaries to isolate unusual purchasing behaviors.
+Performance Summaries: Aggregated sales performance tracking across diverse product categories (e.g., Chairs, Desks, Laptops, Printers) and specific marketing channels.
 
 👤 Connect with Me
-Thank you for exploring this project! I am an aspiring Data Analyst continuously building my technical portfolio. Feel free to connect or share feedback:
 ● LinkedIn: www.linkedin.com/in/udeme-jackson-0a0887144
 ● GitHub: hhtps://github.com/udeme054/decodelabs-internship
