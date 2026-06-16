@@ -26,7 +26,7 @@ Objective: Engineered specialized "Month" and "Year" columns. This optimization 
 Action: Reviewed text distributions, trimmed whitespace, and validated column profiles. 
 Objective: Ensured all records conform to a reliable standard, establishing a solid foundation for robust descriptive statistics and exploratory data analysis (EDA). 
 
-#Key Deliverables & Insights
+### Key Deliverables & Insights
 Following the pre-preparation phase, the dataset is fully optimized to extract operational insights, including:
 ● Descriptive Statistics: Baseline measurements across quantities, unit prices, and total order volumes.
 ● Outlier Analysis: Detection of extreme values using Interquartile Range (IQR) boundaries to isolate unusual purchasing behaviors.
